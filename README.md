@@ -29,7 +29,6 @@
 - [Como Executar](#executar)
 - [Tecnologias](#tecnologias)
 - [Licença](#licenca)
-- [Autor](#autor)
 
 <br>
 
