@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Gatsby" title="#Gatsby" src="./assets/01.gif" width="600px">
+  <img alt="Gatsby" title="#Gatsby" src="./static/01.gif" width="600px">
 </h3>
 
 <p align="center"> 💬 <strong>Portfolio dev com Gatsby e D3.js</strong> 🚧
@@ -61,7 +61,7 @@
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Gatsby" title="#Gatsby" src="./assets/01.gif" width="600px">
+  <img alt="Gatsby" title="#Gatsby" src="./static/01.gif" width="600px">
 </p>
 
 <br>
