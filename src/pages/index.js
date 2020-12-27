@@ -46,13 +46,6 @@ const skillsData = [
             <div className="resume-content">
               <h3 className="mb-0">Estágiário como Desenvolvedor Front End Jr </h3>
               <div className="subheading mb-3">Cazalab</div>
-              <p>
-                {/* Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration */}
-              </p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">Novembro 2020 - Data Atual</span>
@@ -79,6 +72,28 @@ const skillsData = [
 
             <div className="resume-date text-md-right">
               <span className="text-primary">Julho 2019 - Julho 2022</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">Etec Prof. José Sant'Ana de Castro</h3>
+              <div className="subheading mb-3">Curso Técnico</div>
+              <div>Marketing</div>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">Fevereiro 2019 - Não terminado</span>
+            </div>
+          </div>
+
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">Etec Prof. Marcos Uchôas dos Santos Penchel</h3>
+              <div className="subheading mb-3">Curso Técnico</div>
+              <div>Turismo Receptivo</div>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">Fevereiro 2017 - Julho 2018</span>
             </div>
           </div>
 
@@ -137,16 +152,11 @@ const skillsData = [
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
           <p>
-            Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            Além de ser um desenvolvedor web Junior, sou apaixonado por leitura e música. 
           </p>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            Normalmente passo uma grande parte do meu tempo livre explorando as tecnologias mais recentes
+            no mundo do desenvolvimento web, principalmente front-end.
           </p>
         </div>
       </section>
