@@ -128,36 +128,6 @@ const skillsData = [
             showLegend
             data = {skillsData}
           />
-
-          <div className="subheading mb-3">Workflow</div>
-          <ul className="fa-ul mb-0">
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Mobile-First, Responsive Design
-            </li>
-            <li>
-              <i className="fa-li fa fa-check"></i>
-              Agile Development &amp; Scrum
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <hr className="m-0" />
-
-      <section
-        className="resume-section p-3 p-lg-5 d-flex align-items-center"
-        id="interests"
-      >
-        <div className="w-100">
-          <h2 className="mb-5">Interests</h2>
-          <p>
-            Além de ser um desenvolvedor web Junior, sou apaixonado por leitura e música. 
-          </p>
-          <p className="mb-0">
-            Normalmente passo uma grande parte do meu tempo livre explorando as tecnologias mais recentes
-            no mundo do desenvolvimento web, principalmente front-end.
-          </p>
         </div>
       </section>
 
@@ -168,7 +138,7 @@ const skillsData = [
         id="awards"
       >
         <div className="w-100">
-          <h2 className="mb-5">Awards &amp; Certifications</h2>
+          <h2 className="mb-5">Capacitações &amp; Certificações</h2>
           <ul className="fa-ul mb-0">
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
@@ -176,19 +146,19 @@ const skillsData = [
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Voluntário como um dos Entrevistadores na Pesquisa de Campo direcionada a Loja Margaridas em Cruzeiro/SP
+              Certificação como um dos Entrevistadores na Pesquisa de Campo para a Loja Margaridas - Cruzeiro/SP
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Voluntário no 1º Encontro de Desenvolvimento e Oportunidade Cruzeiro/SP.
+              Certificação como Voluntário no 1º Encontro de Desenvolvimento e Oportunidade Cruzeiro/SP.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Participação no 2º Ryla – Prêmio Rotary de Liderança Juvenil.
+              Premiação no 2º Ryla – Prêmio Rotary de Liderança Juvenil.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Voluntário no evento “3º Encontro de Turismo”, Cachoeira Paulista/SP.
+              Certificação como Voluntário no evento “3º Encontro de Turismo”, Cachoeira Paulista/SP.
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
