@@ -51,7 +51,7 @@
 
 🎲 Segue abaixo o link do Deploy da Aplicação
 <br><br>
-🔗 [Deploy da Aplicação](hopeful-kilby-1dcb3f.netlify.app).
+🔗 [Deploy da Aplicação](https://affectionate-kare-f35056.netlify.app).
 
 <br>
 <a id="layout"></a>
