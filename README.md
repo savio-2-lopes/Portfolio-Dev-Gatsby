@@ -58,8 +58,6 @@
 
 ## 🎨 Layout
 
-### Web
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Gatsby" title="#Gatsby" src="./static/01.gif" width="600px">
 </p>
