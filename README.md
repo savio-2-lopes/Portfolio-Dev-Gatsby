@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Gatsby" title="#Gatsby" src="./static/01.gif" width="600px">
+  <img alt="Gatsby" title="#Gatsby" src="./static/01.gif" width="550px">
 </h3>
 
 <p align="center"> 💬 <strong>Portfolio dev com Gatsby e D3.js</strong> 🚧
