@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-🚀 A aplicação é consiste em um Portfolio dev de palco desenvolvido utilizando Gatsby e D3.js. 
+🚀 A aplicação consiste em um Portfolio dev de palco desenvolvido utilizando Gatsby e D3.js. 
 
 <br>
 
